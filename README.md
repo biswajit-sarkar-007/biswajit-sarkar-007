@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MEARN,AI-ML**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **biswajitsarkar0485@gmail.com**
 
