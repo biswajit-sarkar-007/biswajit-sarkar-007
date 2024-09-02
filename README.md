@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **biswajitsarkar0485@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VMbZooSH4oZh2rZttXZKXwrJ1R1mP8FF/view](https://drive.google.com/file/d/1VMbZooSH4oZh2rZttXZKXwrJ1R1mP8FF/view)
-
+- 📄 Know about my experiences 
 - ⚡ Fun fact **Doing Engineering is also Comedy.**
 
 <h3 align="left">Connect with me:</h3>
