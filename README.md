@@ -46,3 +46,5 @@ Let’s connect and create something amazing together.</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit-sarkar-007&show_icons=true&locale=en" alt="biswajit-sarkar-007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit-sarkar-007&" alt="biswajit-sarkar-007" /></p>
+
+[![An image of @biswajitsarkar007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/biswajitsarkar007)](https://holopin.io/@biswajitsarkar007)
