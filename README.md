@@ -12,6 +12,9 @@ Driven by a commitment to build innovative and impactful solutions.
 Let’s connect and create something amazing together.</p>
 <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU"/>
 
+
+## GitHub Trophies 🏆
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-sarkar-007&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-sarkar-007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajit-sarkar-007" alt="biswajit-sarkar-007" /></a> </p>
@@ -45,7 +48,6 @@ Let’s connect and create something amazing together.</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit-sarkar-007&show_icons=true&locale=en" alt="biswajit-sarkar-007" /></p>
 
-## GitHub Trophies 🏆
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit-sarkar-007&" alt="biswajit-sarkar-007" /></p>
 
 ## GSSOC(24) Badges 🪶
