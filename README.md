@@ -60,5 +60,7 @@ Let’s connect and create something amazing together.</p>
   
   </a>
 </div>
+
 ## 🏆 Holopin Badges
+
 [![An image of @biswajitsarkar007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/biswajitsarkar007)](https://holopin.io/@biswajitsarkar007)
