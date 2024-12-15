@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Biswajit Sarkar</h1>
 <h3 align="center" >💫 About Me: </h3>
-<p>I’m  full-stack developer with a passion for creating responsive and scalable web and mobile applications.
+<p>I’m a full-stack developer with a passion for creating responsive and scalable web and mobile applications.
 Currently expanding my skill set with Android, Angular, and various modern tools like Firebase and AWS.
 Proficient in JavaScript, React, Node.js, and Python, with a focus on both development and data analysis.
 Experienced in designing intuitive UIs and crafting efficient backend solutions.
