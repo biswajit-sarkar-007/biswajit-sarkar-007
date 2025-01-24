@@ -22,7 +22,7 @@ Let’s connect and create something amazing together.</p>
 
 - I'm currently working on **ReactJs**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **MERN**
 
