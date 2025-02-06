@@ -8,7 +8,7 @@ Proficient in JavaScript, React, Node.js, and Python, with a focus on both devel
 Experienced in designing intuitive UIs and crafting efficient backend solutions.
 I thrive on solving complex problems and embracing new technologies.
 Constantly learning and adapting to the ever-evolving tech landscape.
-Driven by a commitment to build innovative and impactful solutions.
+Driven by a commitment  to build innovative and impactful solutions.
 Let’s connect and create something amazing together.</p>
 <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU"/>
 
