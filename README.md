@@ -46,7 +46,7 @@ Key Highlights: <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit-sarkar-007&show_icons=true&locale=en" alt="biswajit-sarkar-007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit-sarkar-007&" alt="biswajit-sarkar-007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit-sarkar-007&"  /></p>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10 px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
