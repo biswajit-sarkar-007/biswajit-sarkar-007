@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Biswajit Sarkar</h1>
 <h3 align="center" >💫 About Me: </h3>
-<p> As a passionate MERN Stack Developer, I specialize in building scalable web applications using React, Node.js, MongoDB, and Express. My expertise extends to DevOps (AWS, Docker, CI/CD), ensuring optimized deployments.
+<p> As a passionate MERN Stack Developer, I specialize in building scalable web applications using React, Node.js, MongoDB, and Express. My expertise extends to DevOps (AWS, Docker, CI/CD), ensuring optimized deployments. <br/>
 
-Key Highlights:
-🔹 Contributed to top open-source programs (GSSoC #41, Hacktoberfest, KWoC)
-🔹 Developed RESTful APIs & microservices for scalable applications
-🔹 Experience with Next.js & TypeScript for modern web performance
+Key Highlights: <br/>
+🔹 Contributed to top open-source programs (GSSoC #41, Hacktoberfest, KWoC) <br/>
+🔹 Developed RESTful APIs & microservices for scalable applications <br/>
+🔹 Experience with Next.js & TypeScript for modern web performance <br/>
 🔹 Worked with Postman APIs & automation for seamless integrations.</p>
 <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU"/>
 
