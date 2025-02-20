@@ -5,7 +5,7 @@
 <p> As a passionate MERN Stack Developer, I specialize in building scalable web applications using React, Node.js, MongoDB, and Express. My expertise extends to DevOps (AWS, Docker, CI/CD), ensuring optimized deployments. <br/>
 
 Key Highlights: <br/>
-🔹 Contributed to top open-source programs (GSSoC #41, Hacktoberfest, KWoC) <br/>
+🔹 Contributed to top open-source programs (GSSoC #41, Hacktoberfest, KWoC, SWoc'25) <br/>
 🔹 Developed RESTful APIs & microservices for scalable applications <br/>
 🔹 Experience with Next.js & TypeScript for modern web performance <br/> 
 🔹 Worked with Postman APIs & automation for seamless integrations.</p>
