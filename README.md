@@ -7,7 +7,7 @@
 Key Highlights:  <br/>
 🔹 Contributed to top open-source programs (GSSoC #41, Hacktoberfest, KWoC, SWoc'25) <br/>
 🔹 Developed RESTful APIs & microservices for scalable applications <br/>
-🔹 Experience with Next.js & TypeScript for modern web performance <br/> 
+🔹 Experience with Next.js & TypeScript for modern web performance <br/>  
 🔹 Worked with Postman APIs & automation for seamless integrations.</p>
 <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU"/>
 
