@@ -34,9 +34,9 @@ Key Highlights:  <br/>
 <p align="left">
 <a href="https://twitter.com/biswa_sarkar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswa_sarkar007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/biswajit007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswajit007" height="30" width="40" /></a>
-<a href="https://fb.com/biswajit sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biswajit sarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/biswajitsarkar704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biswajitsarkar704" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@cctshort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@cctshort" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100075003746925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biswajit sarkar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bisuuu_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biswajitsarkar704" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Cctshort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@cctshort" height="30" width="40" /></a>
 </p>
 
  <h3 align="left">Languages and Tools:</h3>
