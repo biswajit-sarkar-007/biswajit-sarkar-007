@@ -10,7 +10,7 @@ Key Highlights:  <br/>
 🔹 Experience with Next.js & TypeScript for modern web performance <br/>  
 🔹 Worked with Postman APIs & automation for seamless integrations.</p>
 
-Notion docs: https://sugary-carnation-d55.notion.site/Hello-Hi-there-1dd20bd6496080f28083da932fa6660a
+ 
 
 <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU"/>
 
@@ -31,6 +31,8 @@ Notion docs: https://sugary-carnation-d55.notion.site/Hello-Hi-there-1dd20bd6496
 - 📫 How to reach me **biswajitsarkar0485@gmail.com**
 
 - 📄 Know about my experiences   ["https://drive.google.com/file/d/132Z-cDzXCtV1ENTvMMu2lvQgRT0JPVX1/view?usp=sharing"]
+  
+- 📄 Notion docs: https://sugary-carnation-d55.notion.site/Hello-Hi-there-1dd20bd6496080f28083da932fa6660a
  
 
 <h3 align="left">Connect with me:</h3>
